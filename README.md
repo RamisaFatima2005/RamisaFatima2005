@@ -93,6 +93,13 @@
 
 ---
 
+## 🏆 GitHub Achievements
+<!-- ACHIEVEMENTS:START -->
+<!-- ACHIEVEMENTS:END -->
+
+
+---
+
 ### ✨ Featured Projects  
 - 📌 [Dynamic Resume Builder](https://dynamic-resume-builder-coral.vercel.app/)  
 - 🌸 [Nike E-commerce Website](https://e-commerce-website-nike.vercel.app/)  
