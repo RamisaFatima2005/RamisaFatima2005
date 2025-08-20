@@ -58,16 +58,6 @@
 
 ---
 
-### 🏆 Highlights  
-
-- ⭐ **Total Stars Earned** → jitne repositories pe logon ne tumhe star diya hai  
-- 🍴 **Total Forks** → kitne logon ne tumhara code fork karke use kiya  
-- 📝 **Total Commits** → tumhari contribution activity  
-- 🔥 **Contribution Streak** → consecutive active days  
-- 📦 **Public Repositories** → jitni repos tumhari public hain  
-- 👩‍💻 **Languages Used** → sabse zyada use hone wali programming languages  
-
----
 
 ### 🎖️ GitHub Achievements  
 
