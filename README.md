@@ -39,30 +39,30 @@
 ---
 
 <!-- 🌟 GitHub Profile Stats + Achievements + Badges -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramisafatima2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamisaFatima2005&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
-## 🏆 GitHub Achievements
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramisafatima2005&theme=radical&no-frame=true&margin-w=10" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&row=1&column=6" alt="trophies" />
 </p>
 
-## 🎖️ GitHub Badges
+---
+
+## 🥇 Achievements & Badges  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramisafatima2005&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=starstruck" alt="starstruck" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=developer" alt="developer" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=committed" alt="committed" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=polyglot" alt="polyglot" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=maintainer" alt="maintainer" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramisafatima2005&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ramisafatima2005?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ramisafatima2005?affiliations=OWNER&style=for-the-badge" alt="Stars" />
-</p>
-
-
-
 
 ---
 
