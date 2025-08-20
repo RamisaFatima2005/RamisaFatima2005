@@ -34,70 +34,48 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="Photoshop" />
-        <br>Photoshop
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Illustrator" />
-        <br>Illustrator
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-        <br>VS Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=figma" width="40"/><br>Figma
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=ps" width="40"/><br>Photoshop
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=ai" width="40"/><br>Illustrator
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub
+  </div>
 </p>
 
 
