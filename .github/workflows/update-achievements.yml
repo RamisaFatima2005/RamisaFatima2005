@@ -1,0 +1,17 @@
+name: Update Achievements
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # har Sunday update
+  workflow_dispatch: # manually bhi run kar sakte ho
+
+jobs:
+  update-achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Achievements Badges
+        uses: RamisaFatima2005/github-profile-achievements-action@v1
+        with:
+          username: RamisaFatima2005
