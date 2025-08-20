@@ -56,13 +56,15 @@
 ---
 
 ## 🥇 Achievements & Badges  
+
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=starstruck" alt="starstruck" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=developer" alt="developer" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=committed" alt="committed" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=polyglot" alt="polyglot" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/ramisafatima2005?achievement=maintainer" alt="maintainer" />
+  <img src="https://img.shields.io/badge/Achievement-Starstruck-yellow?style=for-the-badge&logo=github" alt="starstruck" />
+  <img src="https://img.shields.io/badge/Achievement-Developer-blue?style=for-the-badge&logo=visualstudiocode" alt="developer" />
+  <img src="https://img.shields.io/badge/Achievement-Committed-green?style=for-the-badge&logo=git" alt="committed" />
+  <img src="https://img.shields.io/badge/Achievement-Polyglot-purple?style=for-the-badge&logo=typescript" alt="polyglot" />
+  <img src="https://img.shields.io/badge/Achievement-Maintainer-orange?style=for-the-badge&logo=githubactions" alt="maintainer" />
 </p>
+
 
 ---
 
