@@ -38,45 +38,37 @@
 
 ---
 
-## 📊 GitHub Stats & Achievements  
+### 📊 GitHub Stats & Achievements  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ramisafatima2005&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisafatima2005&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=RamisaFatima2005&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="160"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramisafatima2005&theme=radical&hide_border=false" height="160"/>
 </p>
 
----
-
-## 🏆 GitHub Achievements  
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ramisafatima2005&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 ---
 
-## 🎖️ Badges  
+
+### 🎖️ GitHub Achievements  
 
 <p align="center">
-  <a href="https://www.credly.com/users/RamisaFatima2005/badges">
-    <img src="https://img.shields.io/badge/Badge-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Badge-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Badge-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Badge-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-  </a>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
 </p>
+
 
 
 
