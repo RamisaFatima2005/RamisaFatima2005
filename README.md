@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ramisa Fatima</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+Enthusiast;UI%2FUX+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Graphic+Designer;Agentic+AI+Developer" alt="Typing SVG" />
 </h3>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ramisafatima2005&label=Profile%20views&color=0e75b6&style=flat" alt="ramisafatima2005" /> 
