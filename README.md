@@ -38,35 +38,46 @@
 
 ---
 
-### 📊 GitHub Stats & Achievements  
+## 📊 GitHub Stats & Achievements  
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamisaFatima2005&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=RamisaFatima2005&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
 
-### 🏆 Achievements  
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 🎖️ Badges  
+## 🎖️ Badges  
+
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/first-pr" alt="First PR"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge/starstruck" alt="Starstruck"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge/pull-shark" alt="Pull Shark"/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge/galaxy-brain" alt="Galaxy Brain"/>
+  <a href="https://www.credly.com/users/RamisaFatima2005/badges">
+    <img src="https://img.shields.io/badge/Badge-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Badge-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Badge-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Badge-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  </a>
 </p>
+
 
 
 
