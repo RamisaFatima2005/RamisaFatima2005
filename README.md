@@ -58,12 +58,39 @@
 ## 🥇 Achievements & Badges  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Starstruck-yellow?style=for-the-badge&logo=github" alt="starstruck" />
-  <img src="https://img.shields.io/badge/Achievement-Developer-blue?style=for-the-badge&logo=visualstudiocode" alt="developer" />
-  <img src="https://img.shields.io/badge/Achievement-Committed-green?style=for-the-badge&logo=git" alt="committed" />
-  <img src="https://img.shields.io/badge/Achievement-Polyglot-purple?style=for-the-badge&logo=typescript" alt="polyglot" />
-  <img src="https://img.shields.io/badge/Achievement-Maintainer-orange?style=for-the-badge&logo=githubactions" alt="maintainer" />
+
+  <!-- Starstruck -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=starstruck" alt="Starstruck" />
+
+  <!-- Pull Shark -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=pull-shark" alt="Pull Shark" />
+
+  <!-- Galaxy Brain -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=galaxy-brain" alt="Galaxy Brain" />
+
+  <!-- Quickdraw -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=quickdraw" alt="Quickdraw" />
+
+  <!-- YOLO -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=yolo" alt="YOLO" />
+
+  <!-- Pair Extraordinaire -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=pair-extraordinaire" alt="Pair Extraordinaire" />
+
+  <!-- Heart On Your Sleeve -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=heart-on-your-sleeve" alt="Heart On Your Sleeve" />
+
+  <!-- Open Sourcerer -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=open-sourcerer" alt="Open Sourcerer" />
+
+  <!-- Public Sponsor -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=public-sponsor" alt="Public Sponsor" />
+
+  <!-- Mars 2020 Contributor -->
+  <img src="https://github-profile-achievements.vercel.app/api/badge/RamisaFatima2005?achievement=mars-2020-contributor" alt="Mars 2020 Contributor" />
+
 </p>
+
 
 
 ---
