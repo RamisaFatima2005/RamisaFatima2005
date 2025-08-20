@@ -41,28 +41,31 @@
 ### 📊 GitHub Stats & Achievements  
 
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ramisafatima2005&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramisafatima2005&layout=compact&theme=radical" height="160"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramisafatima2005&theme=radical&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ramisafatima2005&theme=radical&margin-w=15&margin-h=15" alt="trophies"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-
-### 🏆 GitHub Achievements
-
+### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🎖️ Badges  
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge/first-pr" alt="First PR"/>
+  <img src="https://github-profile-achievements.vercel.app/api/badge/starstruck" alt="Starstruck"/>
+  <img src="https://github-profile-achievements.vercel.app/api/badge/pull-shark" alt="Pull Shark"/>
+  <img src="https://github-profile-achievements.vercel.app/api/badge/galaxy-brain" alt="Galaxy Brain"/>
 </p>
 
 
