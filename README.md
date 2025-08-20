@@ -34,8 +34,72 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,figma,ps,ai,vscode,git,github" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="Photoshop" />
+        <br>Photoshop
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Illustrator" />
+        <br>Illustrator
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
