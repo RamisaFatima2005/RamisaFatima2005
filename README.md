@@ -55,16 +55,13 @@
 ---
 
 ### ✨ Featured Projects  
-- 📌 [Dynamic Resume Builder](https://github.com/RamisaFatima2005/dynamic-resume)  
-- 🌸 [Flower E-commerce Website](https://github.com/RamisaFatima2005/flower-shop)  
-- 🧴 [Skincare Brand Website](https://github.com/RamisaFatima2005/skincare-website)  
-- 📚 [Books API with UI](https://github.com/RamisaFatima2005/books-api)  
-
----
-
-### ✍️ Latest Blog Posts  
-- [Introduction to Props in React](https://medium.com/@ramisafatima67)  
-- [Understanding React Hooks](https://medium.com/@ramisafatima67)  
+- 📌 [Dynamic Resume Builder](https://dynamic-resume-builder-coral.vercel.app/)  
+- 🌸 [Nike E-commerce Website](https://e-commerce-website-nike.vercel.app/)  
+- 🧴 [Comforty Furniture E-commerce Website](https://temp-9.vercel.app/)  
+- 📚 [Blog Website Using Sanity](https://sanity-blog-lovat-gamma.vercel.app/)
+- 📃 [Zod & Raect-Hook Form](https://zod-form-beryl.vercel.app/)
+- 💻 [Nextjs Dashboard Website](https://class-8nextjs-dashboard.vercel.app/)
+- 🍴 [Haveli Restaurant Website](https://haveli-restaurant-webiste.vercel.app/)
 
 ---
 
