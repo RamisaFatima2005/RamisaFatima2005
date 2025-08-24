@@ -50,8 +50,9 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramisafatima2005&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramisafatima2005&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
