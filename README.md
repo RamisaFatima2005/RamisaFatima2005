@@ -1,4 +1,4 @@
-![logo](https://github.com/RamisaFatima2005/RamisaFatima2005/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/RamisaFatima2005/RamisaFatima2005/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Ramisa Fatima</h1>
 <h3 align="center">
