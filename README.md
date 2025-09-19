@@ -1,4 +1,4 @@
-![logo](https://github.com/RamisaFatima2005/RamisaFatima2005/blob/main/banner.png)
+![logo](https://github.com/RamisaFatima2005/RamisaFatima2005/blob/main/Banner(2).png)
 
 <h1 align="center">Hi 👋, I'm Ramisa Fatima</h1>
 <h3 align="center">
