@@ -42,8 +42,8 @@
 
 ### 📊 Detailed Git Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight&langs_count=8" height="180em" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight&langs_count=8" height="180em" /> -->
 </p>
 
 <p align="center">
