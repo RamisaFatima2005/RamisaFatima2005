@@ -28,7 +28,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,figma,ps,ai,vscode,git,github,vercel,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,figma,ps,ai,vscode,git,github,vercel" />
 </p>
 
 ---
