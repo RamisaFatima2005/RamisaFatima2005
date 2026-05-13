@@ -20,7 +20,7 @@
 * 🚀 Specialized in **Agentic AI** and **Agentic Workflows**.
 * 🎓 Pursuing a **BS in Computer Science** with a focus on AI Engineering.
 * 🛠️ Building modern applications using **Next.js 14/15** and **React 19**.
-* 🎨 Passionate about **High-End Design** and **Functional Code**.
+* 💻 Portfolio: **[ramisa-fatima.vercel.app](https://ramisa-fatima.vercel.app/)**
 * 📝 Writing about tech on [Medium](https://medium.com/@ramisafatima67).
 * 📫 Reach me at: **fatimaramisa12@gmail.com**
 
@@ -42,8 +42,8 @@
 
 ### 📊 Detailed Git Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight&langs_count=8" height="180em" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight&langs_count=8" height="180em" />
 </p>
 
 <p align="center">
@@ -67,6 +67,9 @@
   <a href="https://linkedin.com/in/ramisa-fatima-8639822b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ramisafatima_05"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.com/users/@ramisa0837"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://ramisa-fatima.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
 
 <p align="center">⭐️ From [Ramisa Fatima](https://github.com/RamisaFatima2005)</p>
