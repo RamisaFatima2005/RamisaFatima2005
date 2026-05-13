@@ -19,8 +19,8 @@
 ### 👩‍💻 About Me  
 * 🚀 Specialized in **Agentic AI** and **Agentic Workflows**.
 * 🎓 Pursuing a **BS in Computer Science** with a focus on AI Engineering.
-* 🛠️ Building modern, scalable web applications using **Next.js 14/15** and **React 19**.
-* 🎨 Passionate about bridging the gap between **High-End Design** and **Functional Code**.
+* 🛠️ Building modern applications using **Next.js 14/15** and **React 19**.
+* 🎨 Passionate about **High-End Design** and **Functional Code**.
 * 📝 Writing about tech on [Medium](https://medium.com/@ramisafatima67).
 * 📫 Reach me at: **fatimaramisa12@gmail.com**
 
@@ -33,42 +33,9 @@
 
 ---
 
-### 🚀 Featured Projects
-| Project | Live Demo | Description |
-| :--- | :--- | :--- |
-| **Nike E-commerce** | [Link](https://e-commerce-website-nike.vercel.app/) | High-performance storefront with optimized UI/UX. |
-| **Comforty Furniture** | [Link](https://temp-9.vercel.app/) | Full-stack e-commerce experience. |
-| **Dynamic Resume Builder** | [Link](https://dynamic-resume-builder-coral.vercel.app/) | Interactive tool for professional branding. |
-| **Haveli Restaurant** | [Link](https://haveli-restaurant-webiste.vercel.app/) | Modern web presence for the hospitality industry. |
-| **Sanity Blog** | [Link](https://sanity-blog-lovat-gamma.vercel.app/) | Headless CMS-powered content platform. |
-| **Zod & React-Hook Form** | [Link](https://zod-form-beryl.vercel.app/) | Advanced form handling and validation. |
-
----
-
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies & Achievements
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/RamisaFatima2005">
-    <img src="https://github-profile-utils.vercel.app/api/achievements?username=RamisaFatima2005&theme=tokyonight" width="400" alt="GitHub Achievements" />
-  </a>
-</p>
-
----
-
-### 🥇 Professional Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source Love" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions Welcome" />
-</p>
-
-<p align="left">
-  <a href="https://holopin.io/@ramisafatima2005">
-    <img src="https://holopin.io/api/user/board?user=ramisafatima2005" width="450" alt="Holopin Board" />
-  </a>
 </p>
 
 ---
@@ -85,14 +52,21 @@
 
 ---
 
+### 🚀 Featured Projects
+| Project | Live Demo | Description |
+| :--- | :--- | :--- |
+| **Nike E-commerce** | [Link](https://e-commerce-website-nike.vercel.app/) | High-performance storefront with optimized UI/UX. |
+| **Comforty Furniture** | [Link](https://temp-9.vercel.app/) | Full-stack e-commerce experience. |
+| **Dynamic Resume Builder** | [Link](https://dynamic-resume-builder-coral.vercel.app/) | Interactive tool for professional branding. |
+| **Haveli Restaurant** | [Link](https://haveli-restaurant-webiste.vercel.app/) | Modern web presence for the hospitality industry. |
+
+---
+
 ### 🌐 Connect with me  
 <p align="left">
   <a href="https://linkedin.com/in/ramisa-fatima-8639822b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ramisafatima_05"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.com/users/@ramisa0837"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://ramisa-fatima.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">⭐️ From [Ramisa Fatima](https://github.com/RamisaFatima2005)</p>
