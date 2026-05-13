@@ -41,12 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight" alt="stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight" alt="top langs" height="180em" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamisaFatima2005&theme=tokyonight" alt="streak" />
 </p>
@@ -68,10 +62,47 @@
 
 ---
 
-## 🥇 Achievements & Badges  
+<!-- Achievements Section -->
+## 🏆 GitHub Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamisaFatima2005&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-<!-- ACHIEVEMENTS:START -->
-<!-- ACHIEVEMENTS:END -->
+<p align="left">
+  <a href="https://github.com/RamisaFatima2005">
+    <img src="https://github-profile-utils.vercel.app/api/achievements?username=RamisaFatima2005&theme=tokyonight" width="400" alt="GitHub Achievements" />
+  </a>
+</p>
+
+---
+
+<!-- Badges Section -->
+## 🥇 Professional Badges
+<p align="left">
+  <!-- GitHub Badges (Automated) -->
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source Love" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions Welcome" />
+</p>
+
+<!-- Holopin Board (If you have one, replace the username) -->
+<p align="left">
+  <a href="https://holopin.io/@ramisafatima2005">
+    <img src="https://holopin.io/api/user/board?user=ramisafatima2005" width="450" alt="Holopin Board" />
+  </a>
+</p>
+
+---
+
+## 📊 Detailed Git Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamisaFatima2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamisaFatima2005&layout=compact&theme=tokyonight&langs_count=8" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamisaFatima2005&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
 ---
 
